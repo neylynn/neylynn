@@ -1,6 +1,6 @@
 
 ### 👨‍💻 About Me : 
-Experienced Software Engineer with 5+ years in full-stack development, specializing in PHP (Laravel, Symfony, Yii), JavaScript (Vue.js, React), and API integrations.
+Experienced Software Engineer with 5+ years in full-stack web development, specializing in PHP (Laravel, Symfony, Yii), JavaScript (Vue.js, React), and API integrations.
 - 🔭I'm working as a software engineer and looking for new opportunities to participate with great software companies.
 - 🌱 I’m currently learning trending technologies like machine learning.
 - 👯 I want to collaborate on open source projects and updated technologies with GitHub members.
