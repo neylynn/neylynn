@@ -1,17 +1,16 @@
 ## 👨‍💻 About Me : 
-**Experienced Software Engineer with 5+ years in full-stack web development, specializing in PHP (Laravel, Symfony, Yii), JavaScript (Node.js, Vue.js, React), and API integrations.**
-#### 🔭I'm working as a software engineer and looking for new opportunities to participate with great software companies.
+**Experienced Software Engineer with 5+ years in full-stack web development, specializing in PHP (Laravel), JavaScript (Node.js, Vue, React), and API integrations.**
+#### 🔭I'm working as a senior laravel developer and looking for new opportunities to participate with great software companies.
 #### 🌱 I’m currently learning trending technologies like machine learning.
 #### 👯 I want to collaborate on open source projects and updated technologies with GitHub members.
 #### 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/nay-linn-68843a2a8/ "Nay Linn")   
    
 ---
 ## 🛠️ Languages and Tools : 
-#### 🚀PHP, JavaScript, C#
-#### 🚀Laravel, Symfony, Yii, Lumen, Node.js, Vue.js, React, Next.js, .NET
-#### 🚀MySQL, MongoDB, MSSQL
-#### 🚀AWS, Docker
-
+#### 🚀PHP, JavaScript, SQL, Linux
+#### 🚀Laravel, Node.js, Vue, React
+#### 🚀MySQL, MongoDB
+#### 🚀Docker, AWS
 ---
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>-->
 ## 🔥My Stats :
