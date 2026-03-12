@@ -44,19 +44,16 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋 I'm Nay Linn 
-
 💻 Experienced Software Engineer with deep understanding of SDLC, based in Bangkok
 
 ## 🚀 About Me
-
 - 🔭 I am currently employed as a senior Laravel developer at App.com.mm
 - 🌱 I’m currently learning trending technologies like machine learning
-- ⚙️ All of my experience projects are available at ![neylynn](https://neylynn.epizy.com)
-- 📫 How to reach me : [email](naylinnofficial@gmail.com)   
+- 🌐 All of my experience projects are available at [neylynn.epizy.com](https://neylynn.epizy.com)
+- 📫 How to reach me : [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
 
 ## 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/nay-linn-68843a2a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nay-linn-68843a2a8/)
 
 ### Languages
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -99,32 +96,8 @@ Here are some ideas to get you started:
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-## 📂 What I Work On
-
-- Backend systems
-- RESTful APIs
-- Database architecture
-- Web scraping & automation
-- Queue systems & background jobs
-- Performance optimization
-
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=neylynn&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neylynn&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=neylynn&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neylynn&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neylynn&layout=compact)
-
-## 📌 Featured Projects
-
-Here are some of the projects I’ve worked on:
-
-- 🛒 **E-commerce Platform** – Built with PHP & Laravel
-- 🔎 **Web Scraping System** – Automated data collection system
-- 💳 **Payment Integration Platform** – Integrated online payment gateways
-- 📩 **Message Blasting Platform** – API-based messaging system
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/neylynn
-- LinkedIn: YOUR_LINKEDIN
-- Email: neylynn97@gmail.com
