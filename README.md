@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I am currently employed as a senior Laravel developer at App.com.mm
+- 🔭 I am currently employed as a Senior Laravel Developer at App.com.mm
 - 🌱 I’m currently learning trending technologies like machine learning
 - 🌐 All of my experience projects are available at [neylynn.epizy.com](https://neylynn.epizy.com)
 - 📫 How to reach me : [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
