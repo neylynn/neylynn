@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 
 💻 Experienced Software Engineer with deep understanding of SDLC, based in Bangkok
 
----
-
 ## 🚀 About Me
 
 - 🔭 I am currently employed as a senior Laravel developer at App.com.mm
@@ -56,13 +54,9 @@ Here are some ideas to get you started:
 - ⚙️ All of my experience projects are available at ![neylynn](https://neylynn.epizy.com)
 - 📫 How to reach me : [email](naylinnofficial@gmail.com)   
 
----
-
 ## 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nay-linn-68843a2a8/)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nay-linn-68843a2a8/)
 
 ### Languages
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -104,7 +98,6 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
----
 
 ## 📂 What I Work On
 
@@ -115,15 +108,11 @@ Here are some ideas to get you started:
 - Queue systems & background jobs
 - Performance optimization
 
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neylynn&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neylynn&layout=compact)
-
----
 
 ## 📌 Featured Projects
 
@@ -133,8 +122,6 @@ Here are some of the projects I’ve worked on:
 - 🔎 **Web Scraping System** – Automated data collection system
 - 💳 **Payment Integration Platform** – Integrated online payment gateways
 - 📩 **Message Blasting Platform** – API-based messaging system
-
----
 
 ## 📫 Connect With Me
 
