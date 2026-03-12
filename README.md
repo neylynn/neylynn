@@ -70,7 +70,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=neylynn&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neylynn&layout=compact&theme=tokyonight)
