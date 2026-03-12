@@ -9,7 +9,7 @@
 - 🔭 I am currently employed as a senior Laravel developer at App.com.mm
 - 🌱 I’m currently learning trending technologies like machine learning
 - 🌐 All of my experience projects are available at [neylynn.epizy.com](https://neylynn.epizy.com)
-- 📫 How to reach me : [![Email](https://img.shields.io/badge/Email-naylinnofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naylinnofficial@gmail.com)
+- 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/Gmail-naylinnofficial%40gmail.com-red?logo=gmail&logoColor=white)](mailto:naylinnofficial@gmail.com)
 
 ### 💬 Connect with me:
 
