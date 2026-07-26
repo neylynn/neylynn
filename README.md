@@ -73,6 +73,6 @@
 ### 📊 GitHub Stats
 
 ![Stats](https://ghstats.dev/api/card?username=neylynn&theme=tokyonight)
-![Languages](https://ghstats.dev/api/languages?username=neylynn&theme=tokyonight)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neylynn&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=neylynn&theme=tokyonight)
 
