@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nay Linn (Ney) 👨‍💻
+### Hi there 👋 I'm neylynn 👨‍💻
 
 💻 Experienced Software Engineer with deep understanding of SDLC, based in Bangkok
 
@@ -72,7 +72,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=neylynn&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neylynn&layout=compact&theme=tokyonight)
+![Stats](https://ghstats.dev/api/card?username=neylynn&theme=tokyonight)
+![Languages](https://ghstats.dev/api/languages?username=neylynn&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=neylynn&theme=tokyonight)
 
