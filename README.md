@@ -8,7 +8,7 @@
 
 - 🔭 I am currently employed as a Senior Laravel Developer at App.com.mm
 - 🌱 I’m currently learning trending technologies like machine learning
-- 🌐 All of my experience projects are available at [neylynn.gihub.io](https://neylynn.gihub.io)
+- 🌐 All of my experience projects are available at [neylynn.github.io](https://neylynn.github.io)
 - 📫 How to reach me : [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
 
 ### 💬 Connect with me:
