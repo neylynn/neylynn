@@ -72,17 +72,20 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=neylynn&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12"
-    alt="GitHub Stats"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=neylynn&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="GitHub Streak"
-    width="48%"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://ghstats.dev/api/card?username=neylynn&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=neylynn&theme=tokyonight&hide_border=true&border_radius=12"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
