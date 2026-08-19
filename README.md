@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm neylynn 👨‍💻
 
-💻 Experienced Software Engineer with deep understanding of SDLC, based in Bangkok
+👨‍💻 6+ years of experience building web applications and full-stack solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neylynn&color=blue)
 
 ### 🚀 About Me
 
 - 🔭 I am currently employed as a Senior Laravel Developer at App.com.mm
-- 🌱 I’m currently learning trending technologies like machine learning
-- 🌐 All of my experience projects are available at [neylynn.github.io](https://neylynn.github.io)
-- 📫 How to reach me : [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
+- 🌱 Currently exploring Machine Learning and modern web technologies
+- 🌐 Explore my projects and experience at [neylynn.github.io](https://neylynn.github.io)
+- 📫 Reach me at [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
 
 ### 💬 Connect with me:
 
