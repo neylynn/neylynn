@@ -1,15 +1,15 @@
-### Hi there 👋 I'm neylynn 👨‍💻
+### Hi there 👋 I'm neylynn
 
-👨‍💻 6+ years of experience building web applications and full-stack solutions
+🧑‍💻 6+ years of experience in full-stack web development
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neylynn&color=blue)
 
 ### 🚀 About Me
 
-- 🔭 I am currently employed as a Senior Laravel Developer at App.com.mm
+- 💼 Senior Laravel Developer at App.com.mm
 - 🌱 Currently exploring Machine Learning and modern web technologies
-- 🌐 Explore my projects and experience at [neylynn.github.io](https://neylynn.github.io)
-- 📫 Reach me at [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
+- 🌐 Portfolio: [neylynn.github.io](https://neylynn.github.io)
+- 📫 [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
 
 ### 💬 Connect with me:
 
@@ -72,7 +72,26 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://ghstats.dev/api/card?username=neylynn&theme=tokyonight)
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neylynn&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=neylynn&theme=tokyonight)
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=neylynn&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neylynn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Top Languages"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=neylynn&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+    width="60%"
+  />
+</p>
 
