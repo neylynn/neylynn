@@ -1,14 +1,15 @@
-### Hi there 👋 I'm neylynn
+###👋 Hi, I'm neylynn
 
-🧑‍💻 6+ years of experience in full-stack web development
+🧑‍💻 Full Stack Engineer with 6+ years of experience designing and developing scalable web applications and business solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neylynn&color=blue)
 
 ### 🚀 About Me
 
-- 💼 Senior Laravel Developer at App.com.mm
-- 🌱 Currently exploring Machine Learning and modern web technologies
-- 🌐 Portfolio: [neylynn.github.io](https://neylynn.github.io)
+- 💼 Senior Laravel Developer at [App.com.mm](https://app.com.mm)
+- 🌐 Building full-stack applications with a focus on backend architecture, APIs, and modern frontend development
+- 🌱 Currently exploring Machine Learning and emerging technologies
+- 📂 Explore my projects and experience on my [portfolio](https://neylynn.github.io)
 - 📫 [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
 
 ### 💬 Connect with me:
