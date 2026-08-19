@@ -89,7 +89,7 @@
 
 <p align="center">
   <img
-    src="https://YOUR-STATS.vercel.app/api?username=neylynn&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://streak-stats.demolab.com/?user=neylynn&theme=tokyonight&hide_border=true&border_radius=12"
     alt="GitHub Streak"
     width="60%"
   />
