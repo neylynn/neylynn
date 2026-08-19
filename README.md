@@ -81,7 +81,7 @@
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neylynn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://ghstats.dev/api/languages?username=neylynn&theme=tokyonight&layout=compact&hide_border=true&border_radius=12"
     alt="Top Languages"
     width="48%"
   />
