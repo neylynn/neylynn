@@ -70,9 +70,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-### 📊 GitHub Stats
-
-<h2 align="center">📊 GitHub Statistics</h2>
+### 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -80,18 +78,11 @@
     alt="GitHub Stats"
     width="48%"
   />
-  <img
-    src="https://ghstats.dev/api/languages?username=neylynn&theme=tokyonight&layout=compact&hide_border=true&border_radius=12"
-    alt="Top Languages"
-    width="48%"
-  />
-</p>
 
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=neylynn&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=neylynn&theme=tokyonight&hide_border=true&border_radius=12"
     alt="GitHub Streak"
-    width="60%"
+    width="48%"
   />
 </p>
 
