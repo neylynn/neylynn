@@ -1,4 +1,4 @@
-###👋 Hi, I'm neylynn
+### 👋 Hi, I'm neylynn
 
 🧑‍💻 Full Stack Engineer with 6+ years of experience designing and developing scalable web applications and business solutions.
 
