@@ -9,7 +9,7 @@
 - 💼 Senior Laravel Developer at [App.com.mm](https://app.com.mm)
 - 🌐 Building full-stack applications with a focus on backend architecture, APIs, and modern frontend development
 - 🌱 Currently exploring Machine Learning and emerging technologies
-- 📂 Explore my projects and experience on my [portfolio](https://neylynn.github.io)
+- 📂 Explore my projects and experience on my [portfolio](https://neylynn.first-page.org)
 - 📫 [naylinnofficial@gmail.com](mailto:naylinnofficial@gmail.com)
 
 ### 💬 Connect with me:
